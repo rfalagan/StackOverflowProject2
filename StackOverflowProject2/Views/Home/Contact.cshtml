@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Contact";
+}
+
+<div class="row">
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-header bg-dark text-light">Teams</div>
+            <div class="card-body">
+                <p>
+                    A private secure home for your team's questions and answers. Perfect for teams 10-500 members. No more digging through stale wikis and los emails-
+                    give your team back the time it needs to build better products
+                </p>
+                <a href="#">Learn more</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-header bg-dark text-light">Enterprise</div>
+            <div class="card-body">
+                <p>
+                 Stack overflow for enterprise is a private secure home for your organixatiopn's questions and answers. Empower your teams to find ansd share information 
+                 without disrupting their workflows </p>
+
+                <a href="#">Learn more</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+
+<script>
+        $("a[href='/home/contact']").attr("id", "active");
+</script>

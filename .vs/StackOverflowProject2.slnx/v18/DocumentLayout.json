@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\learn\\StackOverflowProject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|c:\\learn\\stackoverflowproject2\\stackoverflowproject2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1176E6-9A82-4F76-BD2B-AAD9A65A74CE}|StackOverflowProject.ViewModels\\StackOverflowProject.ViewModels.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject.viewmodels\\newanswerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1176E6-9A82-4F76-BD2B-AAD9A65A74CE}|StackOverflowProject.ViewModels\\StackOverflowProject.ViewModels.csproj|solutionrelative:stackoverflowproject.viewmodels\\newanswerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\views\\shared\\question.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\views\\shared\\question.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\content\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\content\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2298609E-B008-4573-8569-C3DA59A26FE7}|StackOverflowProject2\\StackOverflowProject2.csproj|solutionrelative:stackoverflowproject2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1176E6-9A82-4F76-BD2B-AAD9A65A74CE}|StackOverflowProject.ViewModels\\StackOverflowProject.ViewModels.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject.viewmodels\\questionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1176E6-9A82-4F76-BD2B-AAD9A65A74CE}|StackOverflowProject.ViewModels\\StackOverflowProject.ViewModels.csproj|solutionrelative:stackoverflowproject.viewmodels\\questionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EA2727-333D-4FFA-898F-BBE6C4B43C0E}|StackOverflowProject.ServiceLayer\\StackOverflowProject.ServiceLayer.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject.servicelayer\\questionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EA2727-333D-4FFA-898F-BBE6C4B43C0E}|StackOverflowProject.ServiceLayer\\StackOverflowProject.ServiceLayer.csproj|solutionrelative:stackoverflowproject.servicelayer\\questionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\learn\\StackOverflowProject2\\packages\\Unity.WebAPI.5.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Unity.WebAPI.5.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\learn\\StackOverflowProject2\\packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EA2727-333D-4FFA-898F-BBE6C4B43C0E}|StackOverflowProject.ServiceLayer\\StackOverflowProject.ServiceLayer.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject.servicelayer\\mapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EA2727-333D-4FFA-898F-BBE6C4B43C0E}|StackOverflowProject.ServiceLayer\\StackOverflowProject.ServiceLayer.csproj|solutionrelative:stackoverflowproject.servicelayer\\mapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EA2727-333D-4FFA-898F-BBE6C4B43C0E}|StackOverflowProject.ServiceLayer\\StackOverflowProject.ServiceLayer.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject.servicelayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EA2727-333D-4FFA-898F-BBE6C4B43C0E}|StackOverflowProject.ServiceLayer\\StackOverflowProject.ServiceLayer.csproj|solutionrelative:stackoverflowproject.servicelayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A615FB48-6720-4609-BEF3-42B717656EF9}|StackOverflowProject.DomainModels\\StackOverflowProject.DomainModels.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject.domainmodels\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A615FB48-6720-4609-BEF3-42B717656EF9}|StackOverflowProject.DomainModels\\StackOverflowProject.DomainModels.csproj|solutionrelative:stackoverflowproject.domainmodels\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A615FB48-6720-4609-BEF3-42B717656EF9}|StackOverflowProject.DomainModels\\StackOverflowProject.DomainModels.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject.domainmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A615FB48-6720-4609-BEF3-42B717656EF9}|StackOverflowProject.DomainModels\\StackOverflowProject.DomainModels.csproj|solutionrelative:stackoverflowproject.domainmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A615FB48-6720-4609-BEF3-42B717656EF9}|StackOverflowProject.DomainModels\\StackOverflowProject.DomainModels.csproj|C:\\learn\\StackOverflowProject2\\stackoverflowproject.domainmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A615FB48-6720-4609-BEF3-42B717656EF9}|StackOverflowProject.DomainModels\\StackOverflowProject.DomainModels.csproj|solutionrelative:stackoverflowproject.domainmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewAnswerViewModel.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.ViewModels\\NewAnswerViewModel.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject.ViewModels\\NewAnswerViewModel.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.ViewModels\\NewAnswerViewModel.cs",
+              "RelativeToolTip": "StackOverflowProject.ViewModels\\NewAnswerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:07:13.548Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Global.asax.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Global.asax.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Global.asax.cs",
+              "RelativeToolTip": "StackOverflowProject2\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:37:57.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "StackOverflowProject2\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T15:26:31.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "StackOverflowProject2\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T16:06:19.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "StackOverflowProject2\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:19:24.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "StackOverflowProject2\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:04:28.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "StackOverflowProject2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:50:01.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\packages.config",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\packages.config",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\packages.config",
+              "RelativeToolTip": "StackOverflowProject2\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-20T21:50:18.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "StackOverflowProject2\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:06:50.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StackOverflowProject2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:58:47.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Question.cshtml",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Shared\\Question.cshtml",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Views\\Shared\\Question.cshtml",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Shared\\Question.cshtml",
+              "RelativeToolTip": "StackOverflowProject2\\Views\\Shared\\Question.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T22:34:57.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuestionViewModel.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.ViewModels\\QuestionViewModel.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject.ViewModels\\QuestionViewModel.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.ViewModels\\QuestionViewModel.cs",
+              "RelativeToolTip": "StackOverflowProject.ViewModels\\QuestionViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:38:08.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuestionsService.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.ServiceLayer\\QuestionsService.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject.ServiceLayer\\QuestionsService.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.ServiceLayer\\QuestionsService.cs",
+              "RelativeToolTip": "StackOverflowProject.ServiceLayer\\QuestionsService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:23:57.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\packages\\Unity.WebAPI.5.4.0\\Readme.txt",
+              "RelativeDocumentMoniker": "packages\\Unity.WebAPI.5.4.0\\Readme.txt",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\packages\\Unity.WebAPI.5.4.0\\Readme.txt",
+              "RelativeToolTip": "packages\\Unity.WebAPI.5.4.0\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-19T22:09:03.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "RelativeDocumentMoniker": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "RelativeToolTip": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-19T22:02:39.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StackOverflowProject2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T21:40:51.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StackOverflowProject2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T21:35:50.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StackOverflowProject2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T21:34:10.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "StackOverflowProject2\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T15:00:25.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Styles.css",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Content\\Styles.css",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Content\\Styles.css",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Content\\Styles.css",
+              "RelativeToolTip": "StackOverflowProject2\\Content\\Styles.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-13T13:34:24.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MapperExtensions.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.ServiceLayer\\MapperExtensions.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject.ServiceLayer\\MapperExtensions.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.ServiceLayer\\MapperExtensions.cs",
+              "RelativeToolTip": "StackOverflowProject.ServiceLayer\\MapperExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:16:32.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.ServiceLayer\\UserService.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject.ServiceLayer\\UserService.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.ServiceLayer\\UserService.cs",
+              "RelativeToolTip": "StackOverflowProject.ServiceLayer\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:16:28.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.DomainModels\\Question.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject.DomainModels\\Question.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.DomainModels\\Question.cs",
+              "RelativeToolTip": "StackOverflowProject.DomainModels\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:46:53.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.DomainModels\\Category.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject.DomainModels\\Category.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.DomainModels\\Category.cs",
+              "RelativeToolTip": "StackOverflowProject.DomainModels\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:46:50.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.DomainModels\\User.cs",
+              "RelativeDocumentMoniker": "StackOverflowProject.DomainModels\\User.cs",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject.DomainModels\\User.cs",
+              "RelativeToolTip": "StackOverflowProject.DomainModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:45:49.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Web.config",
+              "RelativeDocumentMoniker": "StackOverflowProject2\\Web.config",
+              "ToolTip": "C:\\learn\\StackOverflowProject2\\StackOverflowProject2\\Web.config",
+              "RelativeToolTip": "StackOverflowProject2\\Web.config",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-11T21:39:40.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

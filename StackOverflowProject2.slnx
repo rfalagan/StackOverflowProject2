@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="StackOverflowProject.DomainModels/StackOverflowProject.DomainModels.csproj" Id="a615fb48-6720-4609-bef3-42b717656ef9" />
+  <Project Path="StackOverflowProject.Repositoeries/StackOverflowProject.Repositories.csproj" Id="bc2f752a-9f53-48d6-87d6-153ca68c1c1f" />
+  <Project Path="StackOverflowProject.ServiceLayer/StackOverflowProject.ServiceLayer.csproj" Id="e3ea2727-333d-4ffa-898f-bbe6c4b43c0e" />
+  <Project Path="StackOverflowProject.ViewModels/StackOverflowProject.ViewModels.csproj" Id="ab1176e6-9a82-4f76-bd2b-aad9a65a74ce" />
+  <Project Path="StackOverflowProject2/StackOverflowProject2.csproj" Id="2298609e-b008-4573-8569-c3da59a26fe7" />
+</Solution>

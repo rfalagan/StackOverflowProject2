@@ -1,0 +1,12 @@
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.dll.config
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.dll
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.pdb
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.dll
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.xml
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.AssemblyReference.cache
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.CoreCompileInputs.cache
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\obj\Debug\StackOve.EEB00F53.Up2Date
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.dll
+C:\learn\StackOverflowProject2\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.pdb

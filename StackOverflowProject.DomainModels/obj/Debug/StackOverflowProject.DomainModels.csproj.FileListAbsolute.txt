@@ -1,0 +1,12 @@
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.dll.config
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.dll
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.pdb
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.dll
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.xml
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.csproj.AssemblyReference.cache
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.csproj.CoreCompileInputs.cache
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\obj\Debug\StackOve.D6B0DDD6.Up2Date
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.dll
+C:\learn\StackOverflowProject2\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.pdb
