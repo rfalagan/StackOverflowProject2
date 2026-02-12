@@ -27,5 +27,35 @@ namespace StackOverflowProject2.Controllers
         {
             return View();
         }
+
+        // POS: Account
+        [ValidateAntiForgeryToken]
+        [HttpPost]
+        public ActionResult Register(RegisterViewModel rvm)
+        {
+
+            if (ModelState.IsValid)
+            {
+                int uid = us.InsertUser(rvm);
+                Session["CurrentUserID"] = uid;
+                Session["CurrentUserName"] = rvm.Name;
+                Session["CurrentUserEmail"] = rvm.Email;
+                Session["CurrentUserPassword"] = rvm.Password;
+                Session["CurrentUserIsAdmin"] = false;
+                return RedirectToAction("Index", "Home");
+
+
+            }
+            else
+            {
+                ModelState.AddModelError("x", "Invalid data");
+                return View(); // Register View Itself
+            }
+
+      
+        }
+
+
+
     }
 }
