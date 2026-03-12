@@ -1,0 +1,42 @@
+﻿@model List<StackOverflowProject.ViewModels.QuestionViewModel>
+
+@{
+    // displays the title in _LayoutPage1
+    ViewBag.Title = "Questions";
+}
+
+
+
+<div class="row">
+    <div class="col-sm-12">
+
+        <table class="table">
+
+            @foreach (var item in Model)
+            {
+
+                Html.RenderPartial("Question", item);
+
+            }
+
+        </table>
+        @if (Session["CurrentUserName"] != null)
+        {
+            <a href="/questions/create" class="btn btn-primary">Add Question</a>
+
+        }
+
+    </div>
+
+</div>
+
+
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="~/Scripts/umd/popper.js"></script>
+<script src="~/Scripts/bootstrap.js"></script>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/Styles.css" rel="stylesheet" />
+
+<script>
+    $("a[href='/allquestions']").attr("id", "active");
+</script>

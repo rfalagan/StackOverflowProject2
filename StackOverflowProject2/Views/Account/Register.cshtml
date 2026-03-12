@@ -1,4 +1,5 @@
-﻿@{
+﻿
+@{
     ViewBag.Title = "Register";
 }
 
@@ -6,9 +7,11 @@
     <div class="col-sm-12">
         <h1>Registration</h1>
         <form novalidate="novalidate" action="/account/register" method="post" class="needs-validation">
+
             @Html.AntiForgeryToken()
 
-            <div class="form-row">                .
+            <div class="form-row">
+                .
                 <div class="form-group col-sm-12">
                     <label for="txtName">Name</label>
                     <input type="text" class="form-control" id="txtName" placeholder="Enter Name" name="Name" required="required" pattern="^[a-zA-Z ]*$" autofocus="autofocus" />
@@ -32,13 +35,14 @@
                     <div class="invalid-feedback">
                         Invalid Email
                     </div>
-                    <small class="email-exist text-danger">                        
+                    <small class="email-exist text-danger">
                     </small>
                 </div>
             </div>
 
 
-            <div class="form-row">                .
+            <div class="form-row">
+                .
                 <div class="form-group col-sm-12">
                     <label for="txtMobile">Mobile</label>
                     <input type="text" class="form-control" id="txtMobile" placeholder="Mobile" name="Mobile" required="required" pattern="^[0-9]{10}" />
@@ -53,13 +57,14 @@
 
 
 
-            <div class="form-row">                .
+            <div class="form-row">
+                .
                 <div class="from-group col-sm-6">
                     <label for="txtPassword">Password</label>
                     <input type="password" class="form-control" id="txtPassword" placeholder="Password" name="Password" required="required" minlength="6"
-        oninput="form.ConfirmPassword.pattern=escapeRegExp(this.value)" />
+                           oninput="form.ConfirmPassword.pattern=escapeRegExp(this.value)" />
 
-                   
+
                     <div class="valid-feedback">
                         Looks good!
                     </div>
@@ -96,11 +101,12 @@
 <script>
 
     $("a[href='/account/register']").attr("id", "active");
-    $(document).on("submit",".needs-validation",validate)
+
+
+    $(document).on("submit", ".needs-validation", validate);
     $(".needs-validation input").blur(validate);
 
-    function validate(event)
-    {
+    function validate(event) {
         if ($(".needs-validation")[0].checkValidity() == false || $(".email-exist").text() != "")
         {
             event.preventDefault();
@@ -110,15 +116,13 @@
 
     }
 
-    function escapeRegExp(str)
-    {
-       
+    function escapeRegExp(str) {
+
         return str.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&");
     }
 
 
-    $("txtEmail").blur(function ()
-    {
+    $("txtEmail").blur(function () {
 
         $.ajax({
             url: "/api/account?email=" + $("#txtEmail").val(), type: "GET", success:
@@ -134,8 +138,7 @@
 
                     }
                 },
-            error: function ()
-            {
+            error: function () {
                 $(".email-exist").text("Error");
             }
         });
