@@ -23,7 +23,7 @@ namespace StackOverflowProject.ViewModels
         public int UserID { get; set; }
       
         [Required]
-        public int QestionID { get; set;  }
+        public int QuestionID { get; set;  }
 
         [Required]
         public int VotesCount { get; set; }
